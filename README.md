@@ -1,4 +1,4 @@
----
+hi---
 
 🌸 Miku Nakano Bot
 
@@ -84,5 +84,11 @@ Owner & Main Developer: @cheems15 💕
 Framework: Baileys by @adiwajshing
 Inspiration: Miku Nakano — The Quintessential Quintuplets
 
+We're looking for friendly volunteer developers to help build Miku Nakano Bot 💕  
+Built on Baileys + Node.js  
+- Add new commands  
+- Improve economy or Kwami game  
+- Help polish memory system  
 
+Contact: [WhatsApp link](https://wa.me/2348133939732?text=Hey!%20I'm%20interested%20in%20helping%20with%20Miku%20Nakano%20Bot!)
 ---
